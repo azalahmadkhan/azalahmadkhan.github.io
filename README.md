@@ -1,6 +1,9 @@
 ### Introduction
+I am a sophomore at the Indian Institute of Technology Guwahati studying Chemical science and technology.
 
-The Engineering field has always fascinated me with my creativity. I was fascinated by the multiple interlinked disciplines that paved the way for potential innovations. I am a sophomore at the Indian Institute of Technology Guwahati studying Chemical science and technology. I am interested in applying Machine Learning, deep learning and forecasting algorithms to geography, economics, healthcare and transportation. I am also interested in making AI safer by using Federated Learning and making it better when compared to classical machine learning. I am currently doing an internship at the University of New South Wales.
+### Research Interests
+I am interested in ML and DL and their applications. I am fascinated by the multiple interlinked disciplines that pave the way for potential innovations. I want to broaden my skill set by working on different projects.
 
-
-#### This page is under construction
+### Research Experience
+Research Intern (Dec 2021 - Present)
+Working on clustering cased image segmentation
