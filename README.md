@@ -11,3 +11,4 @@ Coral Reef mapping using clustering methods.
 
 #### Research Intern (Jan 2021 - Present)
 ##### UMN
+Working on open problems of Federated Learning.
