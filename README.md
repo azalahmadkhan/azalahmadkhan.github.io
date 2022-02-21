@@ -6,9 +6,9 @@ I am interested in ML and DL and their applications. I am fascinated by the mult
 
 ### Research Experience
 #### Research Intern (Dec 2021 - Present)
-##### UNSW
+###### UNSW
 Coral Reef mapping using clustering methods.
 
 #### Research Intern (Jan 2021 - Present)
-##### UMN
+###### UMN
 Working on open problems of Federated Learning.
