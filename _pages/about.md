@@ -2,12 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: Singapore
+subtitle: Guwahati, Assam
 
 profile:
   align: right
-  image: Photo.png
-  image_hover: Photo_hover.png
+  image: Photo.jpeg
+  image_hover: Photo.jpeg
   image_cicular: false # crops the image to make it circular
   address: >
 #    <p>555 your office number</p>
@@ -18,7 +18,9 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Under Construction by azal
-My name is Jinsheng Ba (巴金声 in Chinese). I am currently a PhD candidate in the Trustworthy Engineering of Software Technologies ([TEST](https://nus-test.github.io/)) Lab at National University of Singapore ([NUS](https://www.nus.edu.sg/)), and fortunate to be advised by Prof. [Manuel Rigger](https://www.manuelrigger.at/). 
+I am a final year undergraduate student in [Department of Chemistry](https://www.iitg.ac.in/chem/) at the [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/). At IIT Guwahati, I am advised by [Dr. Debanga Raj Neog](https://debanga.github.io/) for my Bachelor Thesis on the intersection of Large Language Models and Reinforcement Learning.
 
-I am broadly interested in computer security (e.g., CTF, threat intelligence, reverse engineering, and malware detection). More recently, I focus on software testing via fuzzing.
+I am mentored by [Dr. Ali Anwar](https://chalianwar.github.io/) at [DMLSys (Distributed Machine Learning and Systems) Lab](https://chalianwar.github.io/lab/) at the University of Minnesota. I am lucky to be part of the [Transitional Artificial Intelligence Research Group](https://transitional-ai.github.io/) at the University of New South Wales, where I work under the guidance of [Dr. Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra).
+
+<p style="text-align: center;">
+<strong>Research Interest:</strong> <a href="https://azalahmadkhan.github.io/research/">Federated Learning</a>, <a href="https://azalahmadkhan.github.io/research/">User-aligned Foundation Models</a>, <a href="https://azalahmadkhan.github.io/research/">Machine Learning Systems</a></p>
