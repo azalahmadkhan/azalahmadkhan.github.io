@@ -26,7 +26,7 @@ I am mentored by [Dr. Ali Anwar](https://chalianwar.github.io/) at [DMLSys (Dist
 <strong>Research Interest:</strong> <a href="https://azalahmadkhan.github.io/research/">Federated Learning</a>, <a href="https://azalahmadkhan.github.io/research/">User-aligned Foundation Models</a>, <a href="https://azalahmadkhan.github.io/research/">Machine Learning Systems</a></p>
 
 <p style="text-align: center;">
-<a href="mailto:azalahmadkhan@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/azal/">LinkedIn</a> / <a href="https://github.com/azalahmadkhan">Github</a> / <a href="https://scholar.google.com/citations?hl=en&user=ih-DIDcAAAAJ">Google Scholar</a> / <a href="https://twitter.com/azalakhan">Twitter</a></p>
+<a href="mailto:azalahmadkhan@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/azal/">LinkedIn</a> / <a href="https://github.com/azalahmadkhan">Github</a> / <a href="https://scholar.google.com/citations?hl=en&user=ih-DIDcAAAAJ">Google Scholar</a> / <a href="https://twitter.com/azalakhan">Twitter</a> / <a href="https://azalahmadkhan.github.io/assets/pdf/Azal_Resume.pdf">CV</a>  </p>
 
 <p style="text-align: center;">
 <strong>I am actively looking for Ph.D. positions for Fall 2024!</strong> Feel free to contact me via email.
