@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Guwahati, Assam
+subtitle: Minneapolis, MN
 
 profile:
   align: right
@@ -18,16 +18,17 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am a final year undergraduate student in [Department of Chemistry](https://www.iitg.ac.in/chem/) at the [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/). At IIT Guwahati, I am advised by [Dr. Debanga Raj Neog](https://debanga.github.io/) for my Bachelor Thesis on the intersection of Large Language Models and Reinforcement Learning.
+I am an incoming first-year PhD student in [Computer Science and Engineering](https://cse.umn.edu/) at the [University of Minnesota](https://twin-cities.umn.edu/). At UMN, I am fortunate to be co-advised by [Dr. Ali Anwar](https://chalianwar.github.io/) and [Dr. Jon Weissman](https://www-users.cse.umn.edu/~weiss039/). My research is partially funded by the Departmental GAGE Fellowship. Prior to joining UMN, I spent four beautiful years completing undergraduate studies at the [Indian Institute of Technology (IIT), Guwahati](https://www.iitg.ac.in/), India.
 
-I am mentored by [Dr. Ali Anwar](https://chalianwar.github.io/) at [DMLSys (Distributed Machine Learning and Systems) Lab](https://chalianwar.github.io/lab/) at the University of Minnesota. I am a member of the [Transitional Artificial Intelligence Research Group](https://transitional-ai.github.io/) at the University of New South Wales, where I work under the guidance of [Dr. Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra).
+During my undergraduate studies, I worked with [Dr. Debanga Raj Neog](https://debanga.github.io/) on my Bachelor Thesis on Large Language Models (LLMs). I also worked with [Dr. Ali Anwar](https://chalianwar.github.io/) on Personalization and Optimization in Federated Learning, and with [Dr. Rohitash Chandra](https://research.unsw.edu.au/people/dr-rohitash-chandra) on ML and optimization.
 
-<p style="text-align: center;">
-<strong>Research Interest:</strong> <a href="https://azalahmadkhan.github.io/research/">Federated Learning</a>, <a href="https://azalahmadkhan.github.io/research/">User-aligned Foundation Models</a>, <a href="https://azalahmadkhan.github.io/research/">Machine Learning Systems</a></p>
-
-<p style="text-align: center;">
-<a href="mailto:azalahmadkhan@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/azal/">LinkedIn</a> / <a href="https://github.com/azalahmadkhan">Github</a> / <a href="https://scholar.google.com/citations?hl=en&user=ih-DIDcAAAAJ">Google Scholar</a> / <a href="https://twitter.com/azalakhan">Twitter</a> / <a href="https://azalahmadkhan.github.io/assets/pdf/Azal_Resume.pdf">CV</a>  </p>
+My current research focuses on the alignment of LLMs, including their applications and multi-objective alignment. I am also working on reasoning in LLMs. Additionally, I am working on developing LLM agents designed to assist software engineers in their daily tasks. More updates on this will be shared soon.
 
 <p style="text-align: center;">
-Feel free to contact me via email.
+<strong>Research Interest:</strong> <a href="https://azalahmadkhan.github.io/research/">User-aligned Foundation Models</a>, <a href="https://azalahmadkhan.github.io/research/">Machine Learning Systems</a></p>
+
+<p style="text-align: center;">
+<a href="mailto:khan1069@umn.edu">Email</a> / <a href="https://www.linkedin.com/in/azal/">LinkedIn</a> / <a href="https://scholar.google.com/citations?hl=en&user=ih-DIDcAAAAJ">Google Scholar</a> / <a href="https://twitter.com/azalakhan">Twitter</a> / <a href="https://azalahmadkhan.github.io/assets/pdf/Azal_Resume.pdf">CV</a>  </p>
+<p style="text-align: center;">
+<strong>Feel free to contact me via email.</strong>
 </p>

@@ -43,6 +43,8 @@ I am always available to support students from underprivileged backgrounds and t
 
 <strong>SOP Examples</strong>
 <br>
+[Azal's CS PhD SOP](https://azalahmadkhan.github.io/assets/pdf/SOP_Azal_UMN.pdf)
+<br>
 [CS PhD Statements of Purpose](https://cs-sop.notion.site/cs-sop/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d)
 
 <strong>LOR</strong>
