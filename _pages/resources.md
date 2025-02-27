@@ -4,7 +4,7 @@ permalink: /esources/
 title: Resources
 description:
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 I completed my undergraduate studies in Chemistry at IIT Guwahati in 2024 and applied for a CS PhD (focusing on NLP and RL) in 2023 for the fall 2024 application cycle. The process of applying to graduate school can be quite stressful and is often unknown for many. To assist others, I am sharing the resources I found invaluable during my application journey. This curated list covers almost all the necessary materials, with a slight bias toward PhD programs, as that is what I applied for. All the credit goes to the brilliant minds who crafted these resources.
 

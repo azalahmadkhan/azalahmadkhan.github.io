@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description:
-nav: true
+nav: false
 nav_order: 2
 ---
  My research endeavors focus on addressing challenges within three pivotal domains- Federated Learning, User-aligned Foundation Models and and the development of scalable and efficient systems for Large Models (e.g., LLMs). I aim to contribute innovative solutions to advance these areas and propel the frontiers of knowledge in the field.
