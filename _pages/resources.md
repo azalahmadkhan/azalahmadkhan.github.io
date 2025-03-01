@@ -8,8 +8,6 @@ nav_order: 2
 ---
 I completed my undergraduate studies in Chemistry at IIT Guwahati in 2024 and applied for a CS PhD (focusing on NLP and RL) in 2023 for the fall 2024 application cycle. The process of applying to graduate school can be quite stressful and is often unknown for many. To assist others, I am sharing the resources I found invaluable during my application journey. This curated list covers almost all the necessary materials, with a slight bias toward PhD programs, as that is what I applied for. All the credit goes to the brilliant minds who crafted these resources.
 
-I am always available to support students from underprivileged backgrounds and those shifting from non-CS disciplines, especially if you're from IIT Guwahati ❤️. Feel free to reach out via email at `khan1069@umn.edu`.
-
 <strong>Rankings</strong>
 <br>
 [CS Rankings](https://csrankings.org/) - CS Topicwise rankings of schools by [Emery Berger](https://emeryberger.com/)
