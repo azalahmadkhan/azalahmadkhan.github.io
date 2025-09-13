@@ -6,7 +6,7 @@ subtitle: Minneapolis, MN
 
 profile:
   align: right
-  image: IMG_0613.heic
+  image: Photo.jpg
   # image_hover: Photo.jpg
   image_cicular: false # crops the image to make it circular
   address: >
